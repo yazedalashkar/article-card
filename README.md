@@ -14,7 +14,7 @@ The card includes:
 
 ## 🚀 Live Demo
 
-[Live Demo Link](https://yazedalashkar.github.io/article-card)  
+[Live Demo Link](https://yazedalashkar.github.io/Social-Links-Profile-Card)  
 <!-- This is the live site hosted via GitHub Pages -->
 
 ## 📂 Repository
