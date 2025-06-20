@@ -1,36 +1,42 @@
-This is a simple HTML & CSS project based on a design challenge from [Frontend Mentor](https://www.frontendmentor.io/). The project displays a clean and responsive preview card for an article, including an image, category label, title, short description, and author details.
+# Social Links Profile Card
+
+This is a simple HTML & CSS project based on a design challenge from [Frontend Mentor](https://www.frontendmentor.io/).  
+The project showcases a clean, responsive *profile card* with social media links, designed to mimic a modern personal landing page.
 
 ## 📸 Project Preview
 
-A visual preview of the component (from the design):
+The card includes:
 
-> An article card with a small image on top, a bold category label, a catchy article title, a brief summary, and an author section at the bottom.
+- A profile image  
+- Name and location  
+- Short bio  
+- Multiple call-to-action buttons linking to social profiles (GitHub, Frontend Mentor, LinkedIn, Twitter, Instagram)
 
 ## 🚀 Live Demo
 
 [Live Demo Link](https://yazedalashkar.github.io/article-card)  
-<!-- This link shows the live version hosted via GitHub Pages -->
+<!-- This is the live site hosted via GitHub Pages -->
 
 ## 📂 Repository
 
 [GitHub Repository](https://github.com/yazedalashkar/article-card)  
-<!-- This is the link to the GitHub repository -->
+<!-- Link to source code on GitHub -->
 
 ## 🛠 Built With
 
-- HTML5
-- CSS3
+- HTML5  
+- CSS3  
 - Visual Studio Code (VSC)
 
 ## 🧠 What I Learned
 
-As a beginner, I learned how to:
+In this project, I practiced:
 
-- Structure a simple HTML document semantically.
-- Use CSS to create visually appealing layouts.
-- Style components with padding, margins, font sizes, and colors.
-- Work with elements like img, section, and text elements to create a card layout.
-- Align content and style text blocks to mimic a real-world UI component.
+- Structuring clean and accessible HTML layouts  
+- Styling components to resemble modern profile cards  
+- Using flexbox to align and center content  
+- Designing buttons with hover effects and external links  
+- Applying responsive design for different screen sizes
 
 ## 👤 Author
 
@@ -40,4 +46,5 @@ As a beginner, I learned how to:
 
 ---
 
-This is one of my first projects after finishing the basics of HTML and CSS. I look forward to learning more and building more complex projects in the future.
+This is one of my first profile card projects after learning the basics of HTML and CSS.  
+I look forward to learning more and building more complex and interactive components in the future.
